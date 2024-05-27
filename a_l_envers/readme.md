@@ -10,4 +10,4 @@ Utilisation d'un [script](./solv.py) python pour se connecter au service distant
 
 ## Flag
 
-Le flage est le nom de la ville qui apparait dans le message déchiffré.
+Le flag est renvoyé par le service distant.

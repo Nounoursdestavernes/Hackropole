@@ -16,4 +16,4 @@ Utilisation de [dcode.fr](https://www.dcode.fr/chiffre-vigenere) pour déchiffre
 
 ## Flag
 
-Le flage est le nom de la ville qui apparait dans le message déchiffré.
+Le flag est le nom de la ville qui apparait dans le message déchiffré.
