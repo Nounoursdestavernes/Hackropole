@@ -1,4 +1,4 @@
-# [Babel Web](https://hackropole.fr/fr/challenges/web/fcsc2020-web-babel-web/))
+# [Babel Web](https://hackropole.fr/fr/challenges/web/fcsc2020-web-babel-web/)
 
 ## Énoncé
 
