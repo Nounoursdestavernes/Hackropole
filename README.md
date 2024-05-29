@@ -3,12 +3,17 @@ My solutions for hackropole challenges
 
 ## Challenges
 
-- [À l'aise](./à_l_aise/readme.md)
+### Crypto
 
-- [A l'envers](./a_l_envers/readme.md)
+- [À l'aise](./crypto/à_l_aise/readme.md)
 
-- [Babel Web](./babel_web/readme.md)
+### Misc
 
-- [Header](./header/readme.md)
+- [A l'envers](./misc/a_l_envers/readme.md)
 
-- [NES Forever](./nes_forever/readme.md)
+### Web
+- [Babel Web](./web/babel_web/readme.md)
+
+- [Header](./web/header/readme.md)
+
+- [NES Forever](./web/nes_forever/readme.md)
