@@ -10,3 +10,5 @@ My solutions for hackropole challenges
 - [Babel Web](./babel_web/readme.md)
 
 - [Header](./header/readme.md)
+
+- [NES Forever](./nes_forever/readme.md)
